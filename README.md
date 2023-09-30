@@ -86,7 +86,7 @@ There is also a dedicated playlist for Internet Radio channels:
 ## Internet Radio
 Of the online radio streaming services accessible in Clementine, only Icecast and Radio-Browser.info are currently implemented.
 
-<ins>Icecast:</ins>
+### Icecast
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/3b6ea6e6-5514-4ef6-9daf-5008d69fa25d" width=45% />
@@ -94,7 +94,7 @@ Of the online radio streaming services accessible in Clementine, only Icecast an
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/42aebaf6-3b6a-442e-a16c-4cd90ac3ebf8" width=45% />    
 </p>
 
-<ins>Radio-Browser.info:</ins>
+### Radio-Browser.info
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/76899cb6-fa60-4e02-bbe5-c549041c862d" width=45% />
@@ -103,3 +103,51 @@ Of the online radio streaming services accessible in Clementine, only Icecast an
 </p>
 
 Unlike Clementine, selected radio channels are not added to the current playlist but to the dedicated Internet Radio playlist.
+
+## Analyzer
+
+### Volume and Balance
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/9f68f886-43f3-4b9b-bf7c-bfd0fb1975c2" width=45% />
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/e60c0fbb-cc11-4d28-800c-35f6832d1553" width=45% />    
+</p>
+
+### Equalizer and Compressor
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/6233884c-e16c-4275-b7df-90bb4ca4ac9c" width=45% />
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/3e7b5515-bfb6-46e8-b526-395102b71775" width=45% />    
+</p>
+
+### Audio Analyzer
+The Bar, Block, Boom and Turbine analyzers from Clementine have been reused in simplified form and a VU meter was added.
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/a0e42e9c-420e-4b72-a878-08588a621a54" width=45% />
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/f3f16c81-86dc-4fba-ae8b-faf6daa886d4" width=45% />    
+</p>
+
+### Performance Monitor
+A simple performance monitor for CPU, memory, network and disk and process usage was added for fun.
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/bedb9891-0bc0-452e-81f7-08713e7b7088" width=45% />
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/9f841394-3b7d-456f-a332-2a60536e30aa" width=45% />
+</p>
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/d88272a2-25b7-4f76-8aa7-e21ecef286dd" width=45% />
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/c459e0a1-a560-4596-a5f0-4f458f72dfe5" width=45% />    
+</p>
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/cb0264cf-95e7-42e6-9868-e05b95335a12" width=45% />
+  &nbsp; &nbsp;
+</p>
+

@@ -89,7 +89,7 @@ Of the online radio streaming services accessible in Clementine, only Icecast an
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/124b3221-8ce6-42b6-8403-9cf126eb142d" width=45% />    
 </p>
 
-Unlike Clementine, selected radio channels are not added to the current playlist but to the dedicated [Internet Radio playlist](#internet_radio_playlist).
+Unlike Clementine, selected radio channels are not added to the current playlist but to the dedicated [Internet Radio playlist](wiki#internet-radio-playlist).
 
 ## Playlists
 ### Album playlist
@@ -101,7 +101,6 @@ Playlists can be created by selecting files or folders in File Explorer or by se
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/2e0649a0-50eb-43f1-87ae-992c21c41579" width=45% />    
 </p>
 
-<a name="internet_radio_playlist"></a>
 ### Internet Radio playlist
 There is also a dedicated playlist for Internet Radio channels:
 

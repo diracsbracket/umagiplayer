@@ -102,3 +102,4 @@ Of the online radio streaming services accessible in Clementine, only Icecast an
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/124b3221-8ce6-42b6-8403-9cf126eb142d" width=45% />    
 </p>
 
+Unlike Clementine, selected radio channels are not added to the current playlist but to the dedicated Internet Radio playlist.

@@ -70,19 +70,6 @@ Art embedded in the audio files is also shown:
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/69ad53e0-f62b-41c1-86ae-9cd8b13a5f7f" width=45% />  
 </p>
 
-## Playlists
-Playlists can be created by selecting files or folders in File Explorer or by selecting songs and albums from the Library.
-
-<p float = "left">
-  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/c5a291af-dee3-4a86-a692-59789a253685" width=45% />
-  &nbsp; &nbsp;
-  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/2e0649a0-50eb-43f1-87ae-992c21c41579" width=45% />    
-</p>
-
-There is also a dedicated playlist for Internet Radio channels:
-
-<img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0834d19a-c127-4ad3-b7cc-99fa277931cf" width=45% />
-
 ## Internet Radio
 Of the online radio streaming services accessible in Clementine, only Icecast and Radio-Browser.info are currently implemented.
 
@@ -102,7 +89,22 @@ Of the online radio streaming services accessible in Clementine, only Icecast an
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/124b3221-8ce6-42b6-8403-9cf126eb142d" width=45% />    
 </p>
 
-Unlike Clementine, selected radio channels are not added to the current playlist but to the dedicated Internet Radio playlist.
+Unlike Clementine, selected radio channels are not added to the current playlist but to the dedicated [Internet Radio playlist](----Internet-Radio-playlist).
+
+## Playlists
+### Album playlist
+Playlists can be created by selecting files or folders in File Explorer or by selecting songs and albums from the Library.
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/c5a291af-dee3-4a86-a692-59789a253685" width=45% />
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/2e0649a0-50eb-43f1-87ae-992c21c41579" width=45% />    
+</p>
+
+### Internet Radio playlist
+There is also a dedicated playlist for Internet Radio channels:
+
+<img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0834d19a-c127-4ad3-b7cc-99fa277931cf" width=45% />
 
 ## Analyzer
 

@@ -20,10 +20,8 @@ QML files have been created that provide basic Clementine functionality such as:
 * Album Art
 * Internet: Icecast and Radio-Browser.info
 * Basic player settings
-* Audio control: Balance, Volume, Equalizer. Added Compressor
+* Audio control: Balance, Volume, Equalizer
 * Analyzer: Bar, Block, Boom, Turbine
-* From a previous version of Clementine, we also included
-Radio-Browser.info
 
 In addition, the following non-Clementine features were added:
 * Audio Compressor

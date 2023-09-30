@@ -84,12 +84,17 @@ There is also a dedicated playlist for Internet Radio channels:
 <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0834d19a-c127-4ad3-b7cc-99fa277931cf" width=45% />
 
 ## Internet Radio
+Of the online radio streaming services accessible in Clementine, only Icecast and Radio-Browser.info are currently implemented.
+
+<ins>Icecast:</ins>
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/3b6ea6e6-5514-4ef6-9daf-5008d69fa25d" width=45% />
   &nbsp; &nbsp;
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/42aebaf6-3b6a-442e-a16c-4cd90ac3ebf8" width=45% />    
 </p>
+
+<ins>Radio-Browser.info:</ins>
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/76899cb6-fa60-4e02-bbe5-c549041c862d" width=45% />

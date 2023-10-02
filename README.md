@@ -16,15 +16,15 @@ My development setup looks currently as follows:
 <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/ef6fd268-2674-4d6b-b3f2-bc894988a204" width=92% />
 
 <p float = "left">
-  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0faccf82-df43-454a-a3df-67406ffd9e6b" width=45% />  
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0faccf82-df43-454a-a3df-67406ffd9e6b" width=45% />
   &nbsp; &nbsp;
-  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/eeae22cc-b22e-4f61-9d46-a19cd0c1b04c" width=45% />  
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/eeae22cc-b22e-4f61-9d46-a19cd0c1b04c" width=45% />
 </p>
 
 <p float = "left">
-  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/1fc90bda-aea8-4c38-9781-266f797fe224" width=45% />  
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/071e99dd-3072-43fd-b0a8-be9286a9346a" width=45% />
   &nbsp; &nbsp;
-  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0d2b83b3-d1f0-4198-b6f2-594c4aeec173" width=45% />    
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0d2b83b3-d1f0-4198-b6f2-594c4aeec173" width=45% />
 </p>
 
 # Current status

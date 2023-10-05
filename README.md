@@ -133,6 +133,10 @@ The Bar, Block, Boom and Turbine analyzers from Clementine have been reused in s
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/f3f16c81-86dc-4fba-ae8b-faf6daa886d4" width=45% />    
 </p>
 
+### Settings
+A
+
+
 ### Performance Monitor
 A simple performance monitor for CPU, memory, network and disk and process usage was added for fun.
 

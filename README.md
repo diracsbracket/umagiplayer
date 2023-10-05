@@ -134,8 +134,19 @@ The Bar, Block, Boom and Turbine analyzers from Clementine have been reused in s
 </p>
 
 ### Settings
-A
+Currently only a limited subset of the Clementine settings is provided:
 
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/acafb3d3-c728-4dfc-a98d-7d0cd9ed5aa0" width=45% />   
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/249eb1ac-7169-4d74-b171-171af72f3a26" width=45% />
+</p>
+
+<p float = "left">
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/1cccfb34-be7b-46b5-a78c-be589b9233ec" width=45% />   
+  &nbsp; &nbsp;
+  <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/cea325a6-ef5e-403a-80f0-8b1efde117aa" width=45% />
+</p>
 
 ### Performance Monitor
 A simple performance monitor for CPU, memory, network and disk and process usage was added for fun.

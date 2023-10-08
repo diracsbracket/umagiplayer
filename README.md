@@ -45,6 +45,8 @@ In addition, the following non-Clementine features were added:
 * Performance Monitor for the Pi4
 
 # QML interface
+This section contains a few screenshots made directly from the Pi4, showing the QML interface.
+
 ## Main screen
 
 <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/b6ae0049-8f0b-4c19-9215-aaec6b1c20e6" width=45% />

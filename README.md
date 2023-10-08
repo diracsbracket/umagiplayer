@@ -2,7 +2,7 @@
 QML frontend to Clementine Music Player for Raspberry Pi with touchscreen
 
 # Objective
-Create a dedicated, standalone and connected music player based on Clementine and Raspberry Pi.
+Create a dedicated, standalone and connected music player/repository based on Clementine and Raspberry Pi.
 
 The aim is to house a Raspberry Pi 4 with touchscreen, SSD drive and rotary encoder
 control knob into a HiFi component form factor, maybe as follows:

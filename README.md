@@ -117,7 +117,7 @@ There is also a dedicated playlist for Internet Radio channels:
 </p>
 
 ### Equalizer and Compressor
-A QML interface to the Gstreamer equalizer plugin used by Clementine is provided, and a audio (dynamic range) compressor was added.
+A QML interface to the Gstreamer equalizer plugin used by Clementine is provided, and an audio (dynamic range) compressor was added.
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/6233884c-e16c-4275-b7df-90bb4ca4ac9c" width=45% />

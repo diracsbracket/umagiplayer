@@ -58,6 +58,8 @@ Files and directories can be viewed in List View and Flow View mode:
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/5758b20e-22d1-4649-a683-17ff730e56aa" width=45% />  
 </p>
 
+Navigation and selection through the File, Library and Playlist views can be done using the touchscreen or via the rotary encoder. 
+
 Art embedded in the audio files is also shown:
 
 <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/d851669f-319f-4752-a47d-247bcac205dc" width=45% />

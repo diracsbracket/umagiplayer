@@ -107,7 +107,7 @@ Playlists can be created by selecting files or folders in File Explorer or by se
 </p>
 
 ### Internet Radio playlist
-There is also a dedicated playlist for Internet Radio channels:
+Internet radios are automatically added to a dedicated playlist:
 
 <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/0834d19a-c127-4ad3-b7cc-99fa277931cf" width=45% />
 

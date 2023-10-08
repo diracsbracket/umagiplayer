@@ -156,7 +156,7 @@ Currently only a limited subset of the Clementine settings is provided:
 ### Performance Monitor
 A simple performance monitor for CPU, memory, network and disk and process usage was added for fun.
 
-One usage is to get the IP address of the Pi device, in case you wish to SSH into it.
+The network monitor can be used for instance to get the IP address of the Pi device, in case you wish to SSH into it.
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/bedb9891-0bc0-452e-81f7-08713e7b7088" width=45% />

@@ -86,6 +86,7 @@ Of the online radio streaming services accessible in Clementine, only Icecast an
 </p>
 
 ### Radio-Browser.info
+RadioBrowser.info was included in older versions of Clementine.
 
 <p float = "left">
   <img src="https://github.com/diracsbracket/umagiplayer/assets/13051119/76899cb6-fa60-4e02-bbe5-c549041c862d" width=45% />

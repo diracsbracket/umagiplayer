@@ -1,8 +1,6 @@
 # umagiplayer
 QML frontend to Clementine Music Player for Raspberry Pi with touchscreen
 
- [[_TOC_]
-
 # Objective
 Create a dedicated, standalone and connected music player/repository based on Clementine and Raspberry Pi.
 
